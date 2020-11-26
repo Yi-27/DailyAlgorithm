@@ -27,6 +27,7 @@ public class MyLinkedList {
         for(int i = 0; i < index; i++){
 
         }
+        return 0;
     }
 
     /** Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list. */
